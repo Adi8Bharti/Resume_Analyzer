@@ -24,7 +24,7 @@ Flexible Handling: Can process different resume formats and layouts with keyword
 
 Real-world Application: Useful for HR automation in organizations, reducing manual effort.
 
-Tech Stack
+#Tech Stack:
 
 Python – Core programming language
 
